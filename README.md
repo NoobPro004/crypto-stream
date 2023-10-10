@@ -360,7 +360,7 @@ Uses
 
 #### Start Server
 
-*  Navigate to `/reactUI`
+*  Navigate to `/frontend`
 
 * Install packages
 ```
