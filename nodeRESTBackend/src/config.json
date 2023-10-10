@@ -1,5 +1,5 @@
 {
-    "cassandraContactPoint" : "cassandra:9042",
+    "cassandraContactPoint" : "127.0.0.1:9042",
     "cassandraLocalDataCenter" : "datacenter1",
     "cassandraKeyspace" : "crypto_updates",
     "serverPort" : "5000",
