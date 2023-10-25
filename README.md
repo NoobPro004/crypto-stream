@@ -258,7 +258,7 @@ Uses
 - Apache Cassandra 3.11.8
 - Java 1.8.0_265 OpenJDK
 
-#### Create Tables
+#### Create Tables 
 
 * Start Cassandra service.
 
